@@ -32,7 +32,7 @@ and open the template in the editor.
         // put your code here
         ?>
 
-        <form action="action.php">
+        <form action="indx.php">
 
             <input type="text" name="user" placeholder="Username">
             <br><br>
